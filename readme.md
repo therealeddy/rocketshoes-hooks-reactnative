@@ -15,7 +15,7 @@
 
 ## Overview
 
-ReactNative Rocketshoes application, using Redux in a shopping cart.
+ReactNative Rocketshoes application, converting to React Hooks.
 
 - **[Author](#author)**
 - **[License](#license)**
